@@ -1,0 +1,3 @@
+- Hello! I’m @BeatrizPassoni
+- 🌱 I’m currently learning C99
+- 📫 How to reach me: @beatriz.passoni@uel.br
