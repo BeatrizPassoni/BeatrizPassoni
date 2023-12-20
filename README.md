@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Beatriz Passoni ✋  
 👩‍💻 Graduanda na UEL
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizpassoni&show_icons=true&theme=transparent)
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/triz_1)
