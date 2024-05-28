@@ -1,6 +1,8 @@
 ## Olá! Eu sou a Beatriz Passoni ✋  
 📚 Graduating in Computer Science at UEL in Brazil.
+<br>
 👨🏻‍💻 Developer at Copel.
+<br>
 💻 Learning about RPA Automation. 
 
 #### Main Stack:
