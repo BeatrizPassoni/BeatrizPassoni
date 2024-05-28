@@ -1,10 +1,12 @@
 ## Olá! Eu sou a Beatriz Passoni ✋  
-👩‍💻 Graduanda na UEL
+📚 Graduating in Computer Science at UEL in Brazil.
+👨🏻‍💻 Developer at Copel.
+💻 Learning about RPA Automation. 
 
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Spring]([(https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white))&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
